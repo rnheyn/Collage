@@ -17,3 +17,6 @@
 {
     width: 300px;
 }
+img:hover{
+    border-radius: 140px;
+}
